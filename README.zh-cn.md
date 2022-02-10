@@ -5,7 +5,7 @@
 前提条件:
 
 - 支持 Edge Driver 的 SmartThings 网关
-- 小燕家庭中心，版本不低于3.0.90
+- [小燕家庭中心](https://www.terncy.com)，版本不低于3.0.90
 - SmartThings 网关和小燕家庭中心应连接在同一个路由器上
 
 使用方法:
