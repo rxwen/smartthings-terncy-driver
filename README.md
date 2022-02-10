@@ -5,7 +5,7 @@
 Prerequisites:
 
 - SmartThings Hub with edge driver support
-- [Terncy Home Center](https://www.terncy.com), firmware version no later than 3.0.90
+- [Terncy Home Center](https://www.terncy.com), firmware version no earlier than 3.0.90
 - SmartThings Hub and Terncy Home Center should be connected to the same network router
 
 Usage:
