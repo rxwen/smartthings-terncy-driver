@@ -16,3 +16,14 @@ Usage: [Video Tutorial](https://youtu.be/TdaIbzesC4s)
 1. Start adding device in SmartThings app, using "Scan" button in "Scan for nearby devices"
 1. Launch Terncy app, you will get an access request in Terncy app. Within Terncy app, You'll find the pending access request from SmartThins in Home Center configuraiton page, under Local Access menu entry.
 1. Approve the access, then go back to SmartThings app, start adding neary by devices again, your Terncy devices will be discovered and shown in SmartThings app
+
+Supported Device Types:
+- Wall Switch
+- Switch Module
+- Awareness Switch
+- Door Sensor
+- Curtain Motor
+- Smart Plug
+- On off Light
+- Color Light
+
