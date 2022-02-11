@@ -21,6 +21,7 @@ Supported Device Types:
 - Wall Switch
 - Switch Module
 - Awareness Switch
+- Smart Dial
 - Door Sensor
 - Curtain Motor
 - Smart Plug
