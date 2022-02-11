@@ -8,7 +8,7 @@
 - [小燕家庭中心](https://www.terncy.com)，版本不低于3.0.90
 - SmartThings 网关和小燕家庭中心应连接在同一个路由器上
 
-使用方法:
+使用方法: [视频教程](https://youtu.be/TdaIbzesC4s)
 
 1. 通过[此链接](https://bestow-regional.api.smartthings.com/invite/akMXbgae5nlb)的向导，启用 SmartThings 网关中的小燕插件
 1. 启动 SmartThings 应用，找到并点击 SmartThings 网关设备图标查看详情

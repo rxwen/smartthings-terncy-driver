@@ -8,7 +8,7 @@ Prerequisites:
 - [Terncy Home Center](https://www.terncy.com), firmware version no earlier than 3.0.90
 - SmartThings Hub and Terncy Home Center should be connected to the same network router
 
-Usage:
+Usage: [Video Tutorial](https://youtu.be/TdaIbzesC4s)
 
 1. Enable the driver for your SmartThings hub with [this link](https://bestow-regional.api.smartthings.com/invite/akMXbgae5nlb), follow the wizard to complete
 1. Launch SmartThings app, tap the SmartThings icon to view its detail page
